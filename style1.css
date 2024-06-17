@@ -241,7 +241,7 @@ p1{
 }    
 footer{
   z-index: 10;
-    bottom: -260vh;
+    bottom: -380vh;
     position: absolute;
     display: flex;
     justify-content: center;
@@ -497,3 +497,21 @@ p3{
   text-shadow: 2rem white;
   letter-spacing: -11px;
 }  
+.c4{
+  background: rgb(243,159,255);
+  background: linear-gradient(90deg, rgba(243,159,255,1) 0%, rgba(172,79,194,1) 51%, rgba(167,0,255,1) 100%);
+  height: 800px;
+  margin-top: 200px;
+}
+p4{
+  color: aliceblue;
+  position: absolute;
+  z-index: 10;
+  top: 362%;
+  font-size: 2.8rem;
+  font-family: 'space2';
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 2rem white;
+  letter-spacing: -11px;
+} 
